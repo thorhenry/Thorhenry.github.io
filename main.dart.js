@@ -64225,7 +64225,7 @@ m=A.ed(20)
 m=A.bB(j,A.cw(B.BZ,B.C,B.Ev,B.K),B.j,j,j,new A.bQ(j,j,j,m,j,j,B.P),j,40,j,j,j,j,90)
 l=A.ed(20)
 k=t.p
-return A.mk(!0,A.Gi(B.NH,B.cl,A.be(new A.bx(B.zC,A.eE(A.a([i,r,q,p,new A.bD(2,A.be(A.eE(A.a([B.Mn,o,new A.p4(B.yh,B.A8,"Payments",n,j),new A.p4(B.yv,B.A0,"Archievment,s",m,j),new A.p4(B.bN,B.A7,"Pravicy",A.bB(j,A.cw(B.Cv,B.C,B.by,B.K),B.j,j,j,new A.bQ(B.f7,j,j,l,j,j,B.P),j,40,j,j,j,j,160),j)],k),B.b6,B.L),g*0.35,h),j),new A.bD(2.5,A.be(A.eE(A.a([B.Ma,A.be(j,s,j),A.cF("Switch to Other Account",A.eu(j,j,B.cj,j,j,j,j,j,j,j,j,17,j,j,B.b9,j,j,!0,j,j,j,j,j,j,j,j),j,j),A.be(j,g*0.015,j),A.cF("Log Out",A.eu(j,j,B.f7,j,j,j,j,j,j,j,j,18,j,j,B.b9,j,j,!0,j,j,j,j,j,j,j,j),j,j)],k),B.b6,B.L),g/6.5,h),j)],k),B.C,B.L),j),g,h),j,!1),B.a7,!0)},
+return A.mk(!0,A.Gi(B.NH,B.cl,A.be(new A.bx(B.zC,A.eE(A.a([i,r,q,p,new A.bD(2,A.be(A.eE(A.a([B.Mn,o,new A.p4(B.yh,B.A8,"Payments",n,j),new A.p4(B.yv,B.A0,"Archievment's",m,j),new A.p4(B.bN,B.A7,"Pravicy",A.bB(j,A.cw(B.Cv,B.C,B.by,B.K),B.j,j,j,new A.bQ(B.f7,j,j,l,j,j,B.P),j,40,j,j,j,j,160),j)],k),B.b6,B.L),g*0.35,h),j),new A.bD(2.5,A.be(A.eE(A.a([B.Ma,A.be(j,s,j),A.cF("Switch to Other Account",A.eu(j,j,B.cj,j,j,j,j,j,j,j,j,17,j,j,B.b9,j,j,!0,j,j,j,j,j,j,j,j),j,j),A.be(j,g*0.015,j),A.cF("Log Out",A.eu(j,j,B.f7,j,j,j,j,j,j,j,j,18,j,j,B.b9,j,j,!0,j,j,j,j,j,j,j,j),j,j)],k),B.b6,B.L),g/6.5,h),j)],k),B.C,B.L),j),g,h),j,!1),B.a7,!0)},
 YQ(a,b){var s=A.be(null,b*0.005,null)
 $.afX()
 return new A.bD(1.5,A.be(A.eE(A.a([B.Mt,s,A.be(A.ov(new A.aap(this),4,B.aR,B.U),b*0.08,a)],t.p),B.b6,B.L),b*0.12,a),null)},
